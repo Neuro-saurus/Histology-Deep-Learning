@@ -1,6 +1,6 @@
-# Biostatistics Repository
+# Bioinformatics Repository
 
-Welcome to the Biostatistics Repository! This space is dedicated to providing resources, code, and analyses related to the field of biostatistics. Our goal is to share knowledge and tools that can help in the analysis of biological data, fostering innovation and understanding in the areas of medicine, public health, genetics, and beyond.
+Welcome to my Biostatistics Repository! This space is dedicated to providing resources, code, and analyses related to the field of biostatistics. My goal is to share knowledge and tools that can help in the analysis of biological data, fostering innovation and understanding in the areas of medicine, public health, genetics, and beyond.
 
 ## Table of Contents
 
